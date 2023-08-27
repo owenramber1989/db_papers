@@ -5,7 +5,7 @@ I will record my learning progress here day by day. When I finished reading one 
 In the name of :fries: ***McDonald*** :fries: , I swear that I will read **all** of the papers **thoroughly** in the next two months.
 - Where there is a will, there is a way.
 ## Progress Bar
-- :pape_with_curl: Total papers read: 1.
+- :page_with_curl: Total papers read: 1.
 - :clock2: Total time consumed: 40min.
 ## Daily Progress
 - 8.27
